@@ -1,0 +1,3 @@
+IGUI_FR = {
+	IGUI_NRK_NeedLightToRead = "Il fait trop sombre ici pour lire...",
+}
